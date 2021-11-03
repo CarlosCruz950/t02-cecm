@@ -15,17 +15,20 @@ de permitir ver la información asociada a un nodo o tópico para visualizarse o
 los tópicos con un rectángulo, construidos a partir de la ejecución de archivos c++ o Python. 
 
 Los principales nodos a considerar son:
-•	El nodo /amcl permite leer la posición inicial del robot, las coordenadas y el continuo escaneo en la variación de su posición para ser publicada en el tópico /particlecloud 
+*	El nodo /amcl permite leer la posición inicial del robot, las coordenadas y el continuo escaneo en la variación de su posición para ser publicada en el tópico /particlecloud 
 el cual permite analizar la variación de sus coordenadas desde la posición (0, 0, 0) y comunicarse con el computador remotamente.
-•	El nodo “Move_base” es necesario para el funcionamiento del robot, en donde se encarga de mover el robot hacia una meta o punto final. En este nodo se asocian “topicos” o 
+
+*	El nodo “Move_base” es necesario para el funcionamiento del robot, en donde se encarga de mover el robot hacia una meta o punto final. En este nodo se asocian “topicos” o 
 tareas que permite realizar el funcionamiento total del robot. Este nodo recibe los datos tomados del sensor LDS unido con los datos de posicionamiento del robot para construir 
 la trayectoria y variar la velocidad lineal o angular del robot “turltebot 3” mediante el uso del topic /cmd_vel.
-•	El nodo /turtlebot3_slam_gmapping permite hacer el mapeo del robot alrededor de su trayectoria. Este nodo recibe los valores de posicionamiento del robot permitiendo tener una
+
+*	El nodo /turtlebot3_slam_gmapping permite hacer el mapeo del robot alrededor de su trayectoria. Este nodo recibe los valores de posicionamiento del robot permitiendo tener una
 referencia del robot dentro del mapa.
-•	El nodo explore_server es el encargado de recibir el valor del punto final de la trayectoria y convertir este valor es un valor binario. Este valor binario va ser recibido por 
+
+*	El nodo explore_server es el encargado de recibir el valor del punto final de la trayectoria y convertir este valor es un valor binario. Este valor binario va ser recibido por 
 el nodo move_base para realizar la trayectoria desde el punto posicionado del robot hasta el punto final definido por el usuario
-•	El nodo turtlebot3_core es el encargado de recibir los valores del tópico /cmd_vel y guiar el robot a través de la trayectoria creada por el nodo move_base controlando el valor 
-de posición, orientación y covarianza del robot.
+
+*	El nodo turtlebot3_core es el encargado de recibir los valores del tópico /cmd_vel y guiar el robot a través de la trayectoria creada por el nodo move_base controlando el valor de posición, orientación y covarianza del robot.
 
 ## BIBLIOGRAFÍA
 
