@@ -1,4 +1,4 @@
-## TAREA 2 - Cruz Montero Carlos Enrique
+# TAREA 2 - Cruz Montero Carlos Enrique
 
 ## INTRODUCCIÓN
 
