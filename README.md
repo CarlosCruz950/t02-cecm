@@ -1,1 +1,12 @@
-# t02-cecm
+## TAREA 2 - Cruz Montero Carlos Enrique
+
+# INTRODUCCIÓN
+
+
+# DESARROLLO
+
+
+# CONCLUSIONES Y OBSERVACIONES
+
+
+# BIBLIOGRAFÍA
