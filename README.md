@@ -1,6 +1,5 @@
 # TAREA 2 - Cruz Montero Carlos Enrique
 
-## INTRODUCCIÓN
 # [ROS - Simulación, Tarea 02]
 
 | Código | Description |
