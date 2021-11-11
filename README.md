@@ -64,5 +64,7 @@ Los principales nodos a considerar son:
 ## Referencias
 
 * Martínez, D. (Mayo de 2019). Universidad Santo Tomás. Obtenido de Facultad de Ingeniería Electrónica: https://repository.usta.edu.co/bitstream/handle/11634/18667/2019davidmartinez.pdf?sequence=1&isAllowed=y
+* https://github.com/CarlosCruz950/t02-cecm/blob/main/docs/InvestigacionParte1.md
+* https://github.com/CarlosCruz950/t02-cecm/blob/main/docs/InvestigacionParte2.md
 
 
