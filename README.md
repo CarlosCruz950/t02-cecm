@@ -48,7 +48,7 @@ Pudimos conocer de mejor forma a través del uso de suscriptores, publicadores y
 ## Autores
 | Iniciales  | Description |
 | ----------:| ----------- |
-| **CMCE** | Carlos Enrique Cruz Monter [GitHub profile](https://github.com/CarlosCruz950) |
+| **CMCE** | Carlos Enrique Cruz Montero [GitHub profile](https://github.com/CarlosCruz950) |
 | **MTJ**  | Jaqueline Mejia Trejo [GitHub profile](https://github.com/ErikFiUNAM) |
 | **TRH** | Hugo Torres Rocha [GitHub profile](https://github.com/HugoTR315) |
 
