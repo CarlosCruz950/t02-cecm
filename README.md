@@ -14,7 +14,7 @@
 - [Introduccion](#Introduccion)
 - [Desarrollo](#Desarrollo)
 - [Conclusiones](#Conclusiones)
-- [Autor](#Autor)
+- [Autores](#Autores)
 - [Referencias](#Referencias)
 
 ## Objetivo
